@@ -1,2 +1,2 @@
 # godin
-an api created using golang
+an api for blogs created using golang
